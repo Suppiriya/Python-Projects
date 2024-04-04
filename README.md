@@ -1,1 +1,1 @@
-# Python-Projects
+# Encrypted bank manager
